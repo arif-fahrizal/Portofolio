@@ -89,7 +89,7 @@ header {
   min-height: 110dvh;
   font-family: "Permanent Marker";
   background-color: var(--bg-color);
-  background-image: url(ad.jpg);
+  background-image: url(./Image/ad.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
