@@ -126,7 +126,7 @@ section{
 
 #about .profile {
   background-color: var(--bg-color);
-  background-image: url(ops.png);
+  background-image: url(/Image/ops.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60%;
